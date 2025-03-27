@@ -141,9 +141,9 @@ namespace Estudos_C_Sharp_2
 
             /*
             double temperatura = 27;
-            String menssagem;
+            String mensagem;
 
-            menssagem = (temperatura >= 20) ? "Está de boa lá fora" : "Está frio lá fora";
+            mensagem = (temperatura >= 20) ? "Está de boa lá fora" : "Está frio lá fora";
 
             Console.WriteLine(menssagem);
             */
